@@ -24,7 +24,12 @@
  
  */
 // Answer question 2 below
-
+let aBook = "Myfather"
+var NumberOfCopiesSold = "20"
+let AuthorName = "JasonPan"
+let SellingPrice = "15"
+var YearPublished = "2055"
+print(The book Name,SellingPrice,YearPublished CanNot Be changed)
 /*:
  ## Now share your understanding
  
